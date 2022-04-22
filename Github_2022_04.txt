@@ -1,0 +1,12 @@
+cd e:/SpringB/Jobs/Apziva/1_project/Pushig/
+git init
+
+git remote add origin https://github.com/GuyenSoto/1joITxDhc6Z1U5mP.git
+
+git remote
+git remote -v
+
+
+git add .
+git commit -m "1_project"
+git push origin master
